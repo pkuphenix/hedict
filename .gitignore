@@ -1,3 +1,10 @@
+# Hedict custom ignore files
+crawlers/dbs/
+crawlers/items/
+crawlers/*.json
+hedict.sublime-project
+hedict.sublime-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
